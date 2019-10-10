@@ -1,0 +1,7 @@
+C:\Users\Mama J\source\repos\phonebookapp\phonebookapp\bin\Debug\phonebookapp.exe.config
+C:\Users\Mama J\source\repos\phonebookapp\phonebookapp\bin\Debug\phonebookapp.exe
+C:\Users\Mama J\source\repos\phonebookapp\phonebookapp\bin\Debug\phonebookapp.pdb
+C:\Users\Mama J\source\repos\phonebookapp\phonebookapp\obj\Debug\phonebookapp.csprojAssemblyReference.cache
+C:\Users\Mama J\source\repos\phonebookapp\phonebookapp\obj\Debug\phonebookapp.csproj.CoreCompileInputs.cache
+C:\Users\Mama J\source\repos\phonebookapp\phonebookapp\obj\Debug\phonebookapp.exe
+C:\Users\Mama J\source\repos\phonebookapp\phonebookapp\obj\Debug\phonebookapp.pdb
