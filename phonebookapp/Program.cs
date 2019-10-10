@@ -91,6 +91,8 @@ namespace phonebookapp
                         break;
                 }
             }
+
+            Console.ReadLine();
         }   
     }
 }
